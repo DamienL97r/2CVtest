@@ -175,7 +175,6 @@ section > div{
     flex: 0 0 60%;
     border-radius: 5px;
     background-color: #ffffff;
-    border-bottom: 1px ridge grey;
 }
 
 .barre{
@@ -184,18 +183,21 @@ section > div{
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
 }
-
+/*Bordur radius sur les barres coloré pour que ce soit plus joli*/
 .c85{
     width: 85%;
     background-color: #4510c2;
+    border-radius: 5px;
 }
 .c90{
     width: 90%;
     background-color: #4510c2;
+    border-radius: 5px;
 }
 .c95{
     width: 95%;
     background-color: #4510c2;
+    border-radius: 5px;
 }
 .c100{
     width: 100%;
