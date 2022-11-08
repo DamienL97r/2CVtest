@@ -16,7 +16,7 @@ html{
 }
 
 body{
-    background-color: #ededed;
+    background-color: #4510c2;
 }
 
 p{
@@ -34,7 +34,7 @@ a{
 header, footer{
     width: 100%;
     padding: 20px 0px;
-    background: #4f4f4f;
+    background: #4510c2;
     box-shadow: 5px 5px 15px #333;
 }
 header{
@@ -50,7 +50,7 @@ header h1{
 
 footer{
     border-top: 2px solid #fff;
-    background: #4f4f4f;
+    background: #4510c2;
 }
 footer p{
     width: 90%;
@@ -72,7 +72,7 @@ section{
     padding-bottom: 20px;
     margin: 20px auto;
     box-shadow: 5px 5px 10px #bbb;
-    background-color: #fff;
+    background-color: #7baaf0;
 }
 
 section h2{
@@ -174,7 +174,7 @@ section > div{
 .conteneur-barre{
     flex: 0 0 60%;
     border-radius: 5px;
-    background-color: grey;
+    background-color: #ffffff;
     border-bottom: 1px ridge grey;
 }
 
@@ -187,19 +187,19 @@ section > div{
 
 .c85{
     width: 85%;
-    background-color: #8d8;
+    background-color: #4510c2;
 }
 .c90{
     width: 90%;
-    background-color: #4b8;
+    background-color: #4510c2;
 }
 .c95{
     width: 95%;
-    background-color: #4b8;
+    background-color: #4510c2;
 }
 .c100{
     width: 100%;
-    background-color: #4b8;
+    background-color: #4510c2;
     border-radius: 5px;
 }
 
@@ -213,7 +213,7 @@ section > div{
     height: 0.5em;
     margin-bottom: 0.25em;
     border-radius: 5px;
-    background-color: grey;
+    background-color: #ffffff;
 }
 
 .interet{
