@@ -270,4 +270,16 @@ section > div{
     }
 }
 
-
+@media screen and (max-width: 477px){
+    .prez{
+        padding-left: 20px;
+    }
+    .contact{
+        padding-right: 20px;
+    }
+    
+    .prez, .contact{
+        flex: content;
+    }
+    
+}
