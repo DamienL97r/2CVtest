@@ -10,6 +10,11 @@
     box-sizing: border-box;
 }
 
+/*Propriété pour scroller doucement*/
+html{
+    scroll-behavior: smooth;
+}
+
 body{
     background-color: #ededed;
 }
@@ -238,6 +243,7 @@ section > div{
     padding-left: 20px;
     margin-right: auto;
 }
+/*Btn Télécharger*/
 .prez a{
     border: 2px solid transparent;
 }
@@ -247,6 +253,25 @@ section > div{
     border: 2px solid #f28835;
     box-shadow: 5px 5px 20px #666;
 }
+/*Btn Contact*/
+.btncontact{
+    display: block;
+    text-align: center;
+    padding: 10px;
+    margin: 10px auto 30px auto;
+    color: #fff;
+    background-color: #ea0;
+    box-shadow: 2px 2px 5px #ccc;
+    border-radius: 5px;
+    border: 2px solid transparent;
+}
+.btncontact:hover{
+    color: #f28835;
+    background-color: #fff;
+    border: 2px solid #f28835;
+    box-shadow: 5px 5px 20px #666;
+}
+
 .exp-logo{
     flex: 0 0 10%;
 }
